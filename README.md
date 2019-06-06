@@ -1,4 +1,4 @@
 # hello-world
-Tutorial de GitHub
+Github's tutorial
 
-Le agrego algunos detalles más para que registre cambios en la rama *readme-edits*.
+Add some details to check how the comit works.
